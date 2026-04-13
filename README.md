@@ -1,2 +1,2 @@
 # Disable-Efficiency-Mode
-Disabled Efficiency Mode on Windows Systems
+Disable Efficiency Mode on Windows Systems
